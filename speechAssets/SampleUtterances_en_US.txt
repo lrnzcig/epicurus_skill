@@ -1,0 +1,50 @@
+GetNewFactIntent a fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me something
+GetNewFactIntent tell me something
+GetNewFactIntent tell me trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me some information
+GetNewFactIntent a quote
+GetNewFactIntent tell me a quote
+GetNewFactIntent give me a quote
+GetNewFactIntent tell me a trivial quote
+GetNewFactIntent give me a trivial quote
+GetNewFactIntent surprise me
+GetNewFactIntent surprise me with a quote
+GetNewFactIntent tell me a quote that I don't know
+GetNewFactIntent give me a quote that I don't know
+GetNewFactIntent give me a new quote
+GetNewFactIntent tell me a new quote
+GetNewFactIntent give me a nice quote
+GetNewFactIntent tell me a nice quote
+GetNewFactIntent give me a new quote
+GetNewFactIntent do you know any quote
+GetNewFactIntent do you know any new quote
+GetNewFactIntent do you know any nice quote
+GetNewYearFactIntent a fact for {FACT_YEAR}
+GetNewYearFactIntent tell me a fact for {FACT_YEAR}
+GetNewYearFactIntent give me a fact for {FACT_YEAR}
+GetNewYearFactIntent give me something for {FACT_YEAR}
+GetNewYearFactIntent tell me something for {FACT_YEAR}
+GetNewYearFactIntent tell me trivia for {FACT_YEAR}
+GetNewYearFactIntent give me trivia for {FACT_YEAR}
+GetNewYearFactIntent give me some information for {FACT_YEAR}
+GetNewYearFactIntent a quote for {FACT_YEAR}
+GetNewYearFactIntent tell me a quote for {FACT_YEAR}
+GetNewYearFactIntent give me a quote for {FACT_YEAR}
+GetNewYearFactIntent tell me a trivial quote for {FACT_YEAR}
+GetNewYearFactIntent give me a trivial quote for {FACT_YEAR}
+GetNewYearFactIntent surprise me with something for {FACT_YEAR}
+GetNewYearFactIntent surprise me with a quote for {FACT_YEAR}
+GetNewYearFactIntent tell me a quote that I don't know for {FACT_YEAR}
+GetNewYearFactIntent give me a quote that I don't know for {FACT_YEAR}
+GetNewYearFactIntent give me a new quote for {FACT_YEAR}
+GetNewYearFactIntent tell me a new quote for {FACT_YEAR}
+GetNewYearFactIntent give me a nice quote for {FACT_YEAR}
+GetNewYearFactIntent tell me a nice quote for {FACT_YEAR}
+GetNewYearFactIntent give me a new quote for {FACT_YEAR}
+GetNewYearFactIntent do you know any quote for {FACT_YEAR}
+GetNewYearFactIntent do you know any new quote for {FACT_YEAR}
+GetNewYearFactIntent do you know any nice quote for {FACT_YEAR}
